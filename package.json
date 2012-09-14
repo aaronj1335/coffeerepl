@@ -1,0 +1,19 @@
+{
+  "name": "coffeerepl",
+  "version": "0.0.0",
+  "description": "more extensible repl for coffeescript",
+  "main": "index.js",
+  "dependencies": {},
+  "bin": {
+    "coffeerepl": "./bin/coffeerepl"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Aaron Stacy <aaron.r.stacy@gmail.com>",
+  "license": "BSD"
+}
